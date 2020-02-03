@@ -1,3 +1,4 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 Hi! I'm Bob, but not really :P, and I just edited Alice.txt.
-More changes. I just like making changes! 
+More changes. I just like making changes!
+Added text to Alice. 
